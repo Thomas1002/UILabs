@@ -1,0 +1,7 @@
+02-17 08:14:58.647    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Entered footerView.OnClickListener.onClick()
+02-17 08:15:03.111    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Entered cancelButton.OnClickListener.onClick()
+02-17 08:15:03.743    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Entered onActivityResult()
+02-17 08:15:05.207    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Entered footerView.OnClickListener.onClick()
+02-17 08:15:09.563    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Entered submitButton.OnClickListener.onClick()
+02-17 08:15:10.191    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Entered onActivityResult()
+02-17 08:15:16.335    1845-1845/course.labs.todomanager I/Lab-UserInterface﹕ Item 0: Title:t4,Priority:LOW,Status:DONE,Date:2014-02-24 08:15:00
